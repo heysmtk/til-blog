@@ -3,5 +3,5 @@
 <p><i>Rozhodl jsem se vést si malý blog, kde budu sdílet krátké TIL (Today I Learned) příspěvky o tom, co jsem se právě naučil. Primárně to slouží mně jako přehled toho, čím jsem se už zabýval, ale protože je blog veřejný, kdokoli si ho může přečíst. Možná se tu objeví i další témata – uvidím, kam mě to blogování zavede. 😊</i></p>
 </div>
 
-### TIL Blog - What did I learn today?
+### Latest posts
 - [date] - 
